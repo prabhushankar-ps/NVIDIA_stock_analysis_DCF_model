@@ -1,7 +1,7 @@
 # NVIDIA Financial Analytics Report
 
 ## 📌 Project Overview
-This project is a financial analytics report on **NVIDIA Corporation (NVDA)**, conducted as part of **BDA 632 (Financial Analytics)**. The report analyzes NVIDIA’s financial performance, market positioning, and investment potential using various financial metrics, valuation models, and competitive comparisons.
+This project is a financial analytics report on **NVIDIA Corporation (NVDA)**, conducted as part of **(Financial Analytics)**. The report analyzes NVIDIA’s financial performance, market positioning, and investment potential using various financial metrics, valuation models, and competitive comparisons.
 
 ## 📈 Key Highlights
 - **Ticker:** NVDA
